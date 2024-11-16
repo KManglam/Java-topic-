@@ -3,6 +3,7 @@ Here’s an explanation of package organization and exception handling in Java w
 
 ---
 
+
 Packages
 
 1. Organizing Classes and Interfaces in Packages
@@ -10,12 +11,14 @@ Packages
 Packages are used to group related classes and interfaces, helping organize code and avoid naming conflicts.
 
 package mypackage;  // Declares the package
+---
 
 public class MyClass {
     public void display() {
         System.out.println("Hello from MyClass in mypackage");
     }
 }
+---
 
 2. Package as Access Protection
 
@@ -32,17 +35,36 @@ A package is defined at the top of a Java file using the package keyword.
 
 package mypackage.subpackage;
 
+---
+
 public class SubClass {
     public void show() {
         System.out.println("This is SubClass in mypackage.subpackage");
     }
 }
 
+
+
+---
+
+
+
 4. Class Path Setting for Packages
 
 To run a Java program that uses packages, you set the classpath to the root directory where your packages are located. For example:
 
+
+---
+
+
+
+
 java -cp . mypackage.MyClass
+
+
+---
+
+
 
 5. Making JAR Files for Library Packages
 
