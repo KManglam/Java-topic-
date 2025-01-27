@@ -7,5 +7,6 @@ class Calculate{
         int result =Calculate.cube(4);
         System.out.println(result);
 
+        
     }
 }
