@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class fibonacci {
+        
         public static void main(String[] args) {
             int n,t1,t2,nextterm ,i;
             System.out.print("Enter the number of terms: ");
