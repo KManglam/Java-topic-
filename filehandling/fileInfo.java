@@ -13,7 +13,5 @@ public class fileInfo {
          else{
                 System.out.println("File not Exist");
             }
-
-
-    }
+      }
 }
