@@ -1,3 +1,4 @@
+
 public class IF {
     public static void main(String[] args) {
         int a,b;
