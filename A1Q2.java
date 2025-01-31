@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class A1Q2 {
     public static void main(String[] args) {
         System.out.print("Enter the Price of an Item: ");
