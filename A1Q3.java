@@ -9,6 +9,5 @@ public class A1Q3 {
         c = (f-32)/1.8;
         System.out.println("Temperature in Celsius: " + c );
 
-
-    }
+      }
 }
