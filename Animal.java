@@ -11,7 +11,6 @@ class Dog extends Animal {
     Dog() {
         super.a();
     }
-
     
     public static void main(String[] args) {
         Dog obj = new Dog();
