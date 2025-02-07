@@ -1,3 +1,4 @@
+
 public class constructor {
      constructor(){
          System.out.println("Mai hu Default Constructor");
