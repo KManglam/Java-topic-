@@ -19,7 +19,6 @@ public class Student {
 
     
 
-
 /* Student(int i,String n){
         int id = i;
         String name = n;
