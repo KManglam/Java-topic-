@@ -4,7 +4,6 @@ class Animal {
     }
 }
 
-
 class Dog extends Animal {
     void b() {
         System.out.println("Dog is an Animal.");
