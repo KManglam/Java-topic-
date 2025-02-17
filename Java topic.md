@@ -272,8 +272,6 @@ public class ThrowsExample {
         FileReader file = new FileReader("file.txt"); // Throws IOException
     }
 }
-
-
 ---
 
 These concepts are essential for organizing Java applications effectively and handling errors gracefully. Let me know if you’d like more specific examples or additional clarification on any topic.
