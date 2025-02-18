@@ -6,7 +6,6 @@ class Parent{
         this.c = 5;
         return b+c;
     }
-
 }
 class Child extends Parent{
     static int a=10;
