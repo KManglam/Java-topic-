@@ -7,6 +7,7 @@ class Parent{
         return b+c;
     }
 }
+
 class Child extends Parent{
     static int a=10;
     public static void main (String []X){
