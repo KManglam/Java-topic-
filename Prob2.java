@@ -9,5 +9,6 @@ public class Prob2 {
         int b = input.nextInt();
         int c = a + b;
         System.out.println("Sum of two numbers is: " + c);
+        
     }
 }
