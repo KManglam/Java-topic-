@@ -1,4 +1,3 @@
-
 import java.util.StringTokenizer;
 public class stringtokenizer {
     public static void main(String[] args) {
