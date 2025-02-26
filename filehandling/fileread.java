@@ -8,7 +8,6 @@ public class fileread {
             while ((i = f.read()) != -1) {
                 System.out.print((char) i);
             }
-
     }
 
 
