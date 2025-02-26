@@ -1,5 +1,6 @@
 import java.io.*;
 
+
 public class filewriter {
     public static void main(String[] args) {
         try {
