@@ -1,4 +1,3 @@
-
 public class foreachloop {
     public static void main(String[] args) {
         System.out.println("Vegetables are: ");
