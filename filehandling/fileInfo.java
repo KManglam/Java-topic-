@@ -1,7 +1,4 @@
-
 import java.io.File;
-
-
 public class fileInfo {
     public static void main(String[] args) {
         File f=new File("C:\\Users\\hp\\Desktop\\abc2.txt");
