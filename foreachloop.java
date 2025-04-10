@@ -3,8 +3,7 @@ public class foreachloop {
         System.out.println("Vegetables are: ");
         String a[]={"Aloo","Payaj","Tamatar","Bhindi"};
         for(String b:a){
-         
-            System.out.println(b);
+         System.out.println(b);
 
         }
     }
