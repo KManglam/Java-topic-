@@ -1,5 +1,3 @@
-
-
 public class trycatchfinally {
     public static void main(String[] args) {
         try{
