@@ -1,4 +1,3 @@
-
 public class stringbuffer {
     public static void main(String[]m){
         StringBuffer a = new StringBuffer("Kumar");
