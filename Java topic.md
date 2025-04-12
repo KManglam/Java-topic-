@@ -4,6 +4,7 @@ Here’s an explanation of package organization and exception handling in Java w
 ---
 
 
+
 Packages
 
 1. Organizing Classes and Interfaces in Packages
