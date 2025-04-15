@@ -4,7 +4,7 @@ public class fileInfo {
         File f=new File("C:\\Users\\hp\\Desktop\\abc2.txt");
         if(f.exists()){
             System.out.println("File Name: "+f.getName());                 //  File Name
-            System.out.println("File location: "+f.getAbsolutePath());     // Path Name
+            System.out.println("File location: "+f.getAbsolutePath());     //  Path Name
             System.out.println("File Writable: "+f.canWrite());           //   T/F
             System.out.println("File Read: "+f.canRead());                // T/F
             System.out.println("File length: "+f.length());               // 14
