@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class inputarray {
     public static void main (String []x){
