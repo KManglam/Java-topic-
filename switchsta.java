@@ -19,7 +19,7 @@ public class switchsta {
                 System.out.println("E");
                 break;
             default:
-                System.out.println("Not Found");
+                 System.out.println("Not Found");
 
         }
     }
