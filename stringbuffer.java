@@ -4,6 +4,6 @@ public class stringbuffer {
         a.append(" Manglam");   // appending a new string to the existing string
         System.out.println("New String: "+ a);
         // String Buffer Method  //
-        System.out.println(a.reverse());
+         System.out.println(a.reverse());
     }
 }
