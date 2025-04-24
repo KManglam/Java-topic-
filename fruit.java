@@ -6,7 +6,6 @@
  
 
 
-
 import java.util.*;
 
 class MaxFruitCountOf2Types {
