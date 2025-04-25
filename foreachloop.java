@@ -4,7 +4,6 @@ public class foreachloop {
         String a[]={"Aloo","Payaj","Tamatar","Bhindi"};
         for(String b:a){
          System.out.println(b);
-
         }
     }
 }
