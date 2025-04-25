@@ -3,8 +3,6 @@
 //  You can start with any tree, but you can’t skip a tree once you have started. You will pick one fruit from each tree until you cannot, i.e., you will stop when you have to pick from a third fruit type.
 
 //  Write a function to return the maximum number of fruits in both the baskets.
- 
-
 
 import java.util.*;
 
