@@ -20,5 +20,4 @@ public class readfile {
             System.out.println("Exception Handled: "+ e);
         }
     }
-
 }
