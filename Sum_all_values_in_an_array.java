@@ -7,7 +7,6 @@ public class Exercise2 {
         for (int i : my_array)
             // Add each element to the sum.
             sum += i;
-        // Print the sum of the array elements.
         System.out.println("The sum is " + sum);
     }
 }
