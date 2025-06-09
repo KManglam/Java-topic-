@@ -1,3 +1,4 @@
+
 // Define a class named Exercise
 public class Exercise {
     
