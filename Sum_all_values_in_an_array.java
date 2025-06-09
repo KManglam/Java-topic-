@@ -1,5 +1,5 @@
 
-// Define a class named Exercise
+//  Define a class named Exercise
 public class Exercise {
     
     public static void main(String[] args) {      
